@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+/*.mp4
+/*.mp3
+/Git/*.mp4
+/SOLID/*.mp4
+/TF_Implementation_Material-20220523T185901Z-001.zip
+/TF_Implementation_Material-20220523T185901Z-001/

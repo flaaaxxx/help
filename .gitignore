@@ -6,9 +6,7 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
-/*.mp4
-/*.mp3
-/Git/*.mp4
-/SOLID/*.mp4
+**/*.mp4
+**/*.mp3
 /TF_Implementation_Material-20220523T185901Z-001.zip
 /TF_Implementation_Material-20220523T185901Z-001/
